@@ -1,0 +1,11 @@
+{
+    "noto sans japanese": {
+        "100": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_100_9584a3a436812c0f5225302affb768a5",
+        "200": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_200_6230a344770965a032c43a65cee1a9b4",
+        "300": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_300_a6e3ba2be1f7b44f705c1fab3887c992",
+        "normal": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_normal_5176f10be12b6b4965a8b88a48125111",
+        "500": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_500_98548bcea7ee410bef2641ff292a1611",
+        "bold": "\/var\/www\/tgwbo\/storage\/fonts\/noto_sans_japanese_bold_b6ee653993413e759b68ceba099840c0",
+        "900": "noto_sans_japanese_900_f57b006b675fccbc87679417ebe76275"
+    }
+}
